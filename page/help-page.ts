@@ -1,5 +1,4 @@
 import { Locator, Page } from "@playwright/test";
-import { text } from "stream/consumers";
 
 export class HelpPage {
     page: Page;
