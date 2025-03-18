@@ -36,7 +36,7 @@ export default defineConfig({
   projects: [
     {
       name: 'mobile',
-      use: { ...devices['iPhone 12'] },
+      use: { ...devices['Pixel 7'] },
     },
     /*{
       name: 'chromium',
